@@ -35,4 +35,4 @@ int main() {
 	}
 	return 0;
 }
-fatties 23
+fatties 234
